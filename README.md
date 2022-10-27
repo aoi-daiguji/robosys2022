@@ -1,2 +1,2 @@
 # robosys2022
-atarasikutukutta repository
+hajimete tukutta repository
