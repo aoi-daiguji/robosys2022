@@ -2,12 +2,11 @@
 hajimete tukutta repository
 
 # plusコマンド
-![test](https://github.com/ryuichiueda/robosys2022/actions/workflows/test.yml/badge.svg)
-↑ テスト結果を反映したバッジの画像が埋め込まれる。（ryuichiueda等は各自変更を。）
+![test](https://github.com/aoi-daiguji/robosys2022/actions/workflows/test.yml/badge.svg)
+
 
 標準入力から読み込んだ数字を足す。
 
-（ここに前ページの項目をいろいろ書く）
 
 ## 必要なソフトウェア
 * Python
@@ -16,5 +15,6 @@ hajimete tukutta repository
 ## テスト環境
 * Ubuntu
 
+## 権利表記
 * このソフトウェアパッケージは、3条項BSDライセンスの下、再配布及び使用が許可されます。
 * © 2022 Daiguji Aoi
