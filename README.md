@@ -5,7 +5,8 @@ hajimete tukutta repository
 ![test](https://github.com/aoi-daiguji/robosys2022/actions/workflows/test.yml/badge.svg)
 
 
-標準入力から読み込んだ数字を足す。
+## このソフトについて
+標準入力から読み込んだ数字を足し、結果を出力します。
 
 
 ## 必要なソフトウェア
