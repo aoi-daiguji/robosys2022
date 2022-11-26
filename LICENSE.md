@@ -1,4 +1,4 @@
-# The BSD 3-Clause License
+# The 3-Clause BSD License
 
 
 Copyright 2022 aoi daiguji
