@@ -1,5 +1,5 @@
 # robosys2022
-hajimete tukutta repository
+
 
 # plusコマンド
 ![test](https://github.com/aoi-daiguji/robosys2022/actions/workflows/test.yml/badge.svg)
